@@ -16,5 +16,13 @@
     "index.js",
     "README.md",
     "LICENSE"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mouyase/dsh-jina.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mouyase/dsh-jina/issues"
+  },
+  "homepage": "https://github.com/mouyase/dsh-jina#readme"
 }
