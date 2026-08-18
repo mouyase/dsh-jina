@@ -1,0 +1,20 @@
+{
+  "name": "dsh-jina",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "index.js",
+  "description": "Jina MCP native plugin with proxy + tool allowlist support",
+  "license": "MIT",
+  "keywords": [
+    "dsh",
+    "deepseek-harness",
+    "jina",
+    "mcp",
+    "plugin"
+  ],
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
