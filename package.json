@@ -15,7 +15,8 @@
   "files": [
     "index.js",
     "README.md",
-    "LICENSE"
+    "LICENSE",
+    "docs/README.EN.md"
   ],
   "repository": {
     "type": "git",
